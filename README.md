@@ -6,8 +6,11 @@
 
 Colours curated by Web and Mobile designer and developer Tina from [Tinacious Design](http://tinaciousdesign.com). Minor modifications for comment legibility (particularly in Python) by Alex Whittemore
 
-![](https://raw.githubusercontent.com/alexwhittemore/vscode-tinacious-design-syntax-alexw/master/images/01-python.PNG)
+New comments and highlight for 0.2.0:
+![New 0.2.0 Colors](https://raw.githubusercontent.com/alexwhittemore/vscode-tinacious-design-syntax-alexw/master/images/01-python.PNG)
 
+Vs the original:
+![Original Colors](https://raw.githubusercontent.com/alexwhittemore/vscode-tinacious-design-syntax-alexw/master/images/02-python-old-theme.PNG)
 
 ## Changelog
 
