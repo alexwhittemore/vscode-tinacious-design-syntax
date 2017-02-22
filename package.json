@@ -1,10 +1,10 @@
 {
-    "name": "theme-tinaciousdesign",
-    "displayName": "Theme-TinaciousDesign ",
+    "name": "theme-tinaciousdesign-alexw",
+    "displayName": "Theme-TinaciousDesign-alexw ",
     "description": "Dark theme with fun colours",
-    "version": "0.1.1",
-    "publisher": "tinaciousdesign",
-    "repository": "https://github.com/tinacious/vscode-tinacious-design-syntax",
+    "version": "0.2.0",
+    "publisher": "alexwhittemore",
+    "repository": "https://github.com/alexwhittemore/vscode-tinacious-design-syntax-alexw",
     "engines": {
         "vscode": "^1.5.0"
     },
@@ -14,7 +14,7 @@
     "contributes": {
         "themes": [
             {
-                "label": "Tinacious Design",
+                "label": "Tinacious Design - alexw",
                 "uiTheme": "vs-dark",
                 "path": "./themes/Tinacious-Design.tmTheme"
             }
