@@ -16,15 +16,15 @@
 				<key>background</key>
 				<string>#1D1D26</string>
 				<key>caret</key>
-				<string>#B3B3D4</string>
+				<string>#D2D2FF</string>
 				<key>foreground</key>
-				<string>#B3B3D4</string>
+				<string>#D2D2FF</string>
 				<key>invisibles</key>
 				<string>#1D1D27</string>
 				<key>lineHighlight</key>
 				<string>#2D2D40</string>
 				<key>selection</key>
-				<string>#2D2D40</string>
+				<string>#504E6E</string>
 			</dict>
 		</dict>
 		<dict>
@@ -35,7 +35,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#504E6E</string>
+				<string>#8785B9</string>
 			</dict>
 		</dict>
 		<dict>
