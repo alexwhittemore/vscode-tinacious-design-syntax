@@ -2,7 +2,7 @@
 
 **Tinacious Design Syntax** is a dark syntax theme that uses a bright palette of colours including pink, blue, turquoise, green, purple, and orange.
 
-![](https://raw.githubusercontent.com/alexwhittemore/vscode-tinacious-design-syntax-alexw/images/tinacious-design-syntax-swatches.png)
+![](https://raw.githubusercontent.com/alexwhittemore/vscode-tinacious-design-syntax-alexw/master/images/tinacious-design-syntax-swatches.png)
 
 Colours curated by Web and Mobile designer and developer Tina from [Tinacious Design](http://tinaciousdesign.com). Minor modifications for comment legibility (particularly in Python) by Alex Whittemore
 
